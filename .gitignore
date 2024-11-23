@@ -1,0 +1,16 @@
+# Ignorer les environnements virtuels
+venv/
+
+# Ignorer les fichiers générés automatiquement
+__pycache__/
+*.py[cod]
+
+# Ignorer les logs et autres fichiers temporaires
+*.log
+.DS_Store
+
+# Ignorer les fichiers de configuration spécifiques
+.venv
+*.sqlite3
+venv/
+data
